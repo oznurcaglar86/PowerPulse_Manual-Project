@@ -4,8 +4,6 @@
 This repository contains complete documentation, test scenarios, defect logs, and reporting outputs created during the manual testing phase of the **PowerPulse API**.
 The goal of this project is to ensure the stability, functionality, and performance of the API through structured QA practices.
 
----
-
 ## 📂 File Descriptions
 
 📌 **Checklist.pdf** — Contains planned and executed manual test steps
@@ -15,7 +13,6 @@ The goal of this project is to ensure the stability, functionality, and performa
 📘 **Test Report.pdf** — Comprehensive final test summary covering all QA activities
 📄 **README.md** — This documentation file
 
----
 
 ## 🔗 Test Reports
 
@@ -25,13 +22,11 @@ The goal of this project is to ensure the stability, functionality, and performa
 📄 **TestRail Cases Report**
 📄 **TestRail Run Report**
 
----
 
 ## 🎥 Presentation Link
 
 ▶️ [PowerPulse Manual Project – Presentation Video](https://drive.google.com/file/d/18iDG3zdYwLX0f-6kk3MHCXYwF7fB2nBx/view?usp=sharing)
 
----
 
 ## 🎯 Project Goals
 
@@ -40,5 +35,5 @@ The goal of this project is to ensure the stability, functionality, and performa
 📊 **TestRail outputs provide standardized and measurable reporting**
 📈 **The overall quality assurance status of the project is clearly assessed and monitored**
 
----
+Projeyi Hazırlayan: Öznur Çağlar
 
