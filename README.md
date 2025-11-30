@@ -20,13 +20,6 @@ The goal of this project is to ensure the stability, functionality, and performa
 
 ## 🔗 Test Reports
 
- 📈 Newman Performance Report
-
-You can view the **detailed, graphical HTML performance report** for the PowerPulse API tests here:
-
-▶️ [Open PowerPulse API Newman Performance Report](https://drive.google.com/file/d/1b7hjSSNzjJUAULdN_a8hZBsWPfrisGfw/view?usp=sharing)
-
-
 📄 **Test Report**
 
 📄 **TestRail Cases Report**
@@ -47,6 +40,8 @@ You can view the **detailed, graphical HTML performance report** for the PowerPu
 📊 **TestRail outputs provide standardized and measurable reporting**
 
 📈 **The overall quality assurance status of the project is clearly assessed and monitored**
+
+
 
 Projeyi Hazırlayan: Öznur Çağlar
 
