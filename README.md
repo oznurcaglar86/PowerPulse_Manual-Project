@@ -24,7 +24,7 @@ The goal of this project is to ensure the stability, functionality, and performa
 
 You can view the **detailed, graphical HTML performance report** for the PowerPulse API tests here:
 
-▶️ [Open PowerPulse API Newman Performance Report](file:///C:/Users/%C3%96znur%20%C3%87a%C4%9Flar/Desktop/PowerPulse_Performance_Report.html)
+▶️ [Open PowerPulse API Newman Performance Report](https://drive.google.com/file/d/1b7hjSSNzjJUAULdN_a8hZBsWPfrisGfw/view?usp=sharing)
 
 
 📄 **Test Report**
