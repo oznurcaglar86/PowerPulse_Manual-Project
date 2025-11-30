@@ -21,12 +21,18 @@ The goal of this project is to ensure the stability, functionality, and performa
 
 ## 🔗 Test Reports
 
-📄 **Test Report**
-📄 **Jira Bug Report**
-📄 **Checklist**
-📄 **TestRail Cases Report**
-📄 **TestRail Run Report**
+ 📈 Performance Report
 
+You can view the **detailed, graphical HTML performance report** for the PowerPulse API tests here:
+
+▶️ [Open PowerPulse API Performance Report](C:\Users\Öznur Çağlar\Desktop\PowerPulse_Performance_Report.html)
+
+
+📄 **Test Report**
+
+📄 **TestRail Cases Report**
+
+📄 **TestRail Run Report**
 
 ## 🎥 Presentation Link
 
