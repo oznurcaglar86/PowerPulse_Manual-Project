@@ -1,44 +1,44 @@
-# 🚀 PowerPulse Manual Test Project
+# PowerPulse Manual Testing Project
 
-Bu repository, **PowerPulse API** için gerçekleştirilen tüm **Manual Testing**, **API Validation**, **Reporting** ve **Quality Assurance** çıktılarının tamamını içerir. Amaç, API’nin güvenilirliğini, performansını ve genel kalite seviyesini ölçmek ve belgelendirmektir.
-
----
-
-## 📂 Dosya Açıklamaları
-
-* 📋 **Checklist** – Manuel test adımları, planları ve durumları
-* 🐞 **Jira Bug Report** – Tespit edilen ve JIRA üzerinden raporlanan tüm bug kayıtları
-* 📘 **TestRail-Cases Report** – TestRail üzerinde oluşturulan test senaryolarına ait çıktılar
-* 🗂️ **TestRail-RUN Report** – TestRail üzerinde yürütülen test koşularına ait raporlar
-* 📝 **Test Report** – Tüm test türlerini ve genel QA durumunu özetleyen ana rapor
-* 📄 **README.md** – Bu dosya
+🚀 **PowerPulse API — Manual Testing & Quality Assurance Documentation**
+This repository contains complete documentation, test scenarios, defect logs, and reporting outputs created during the manual testing phase of the **PowerPulse API**.
+The goal of this project is to ensure the stability, functionality, and performance of the API through structured QA practices.
 
 ---
 
-## 📊 Test Raporları
+## 📂 File Descriptions
 
-* 📄 **Test Report**
-* 🐞 **Jira Bug Report**
-* 📋 **Checklist**
-* 📘 **TestRail Cases Report**
-* 🗂️ **TestRail Run Report**
+📌 **Checklist.pdf** — Contains planned and executed manual test steps
+🐞 **Jira Bug Report.pdf** — Consolidated list of defects reported and tracked in JIRA
+🧪 **TestRail-Cases Report.pdf** — Test case documentation exported from TestRail
+🚦 **TestRail-Run Report.pdf** — Execution details of completed test runs in TestRail
+📘 **Test Report.pdf** — Comprehensive final test summary covering all QA activities
+📄 **README.md** — This documentation file
 
 ---
 
-## 🎥 Sunum Videosu
+## 🔗 Test Reports
 
-🔗 [**PowerPulse Manual Project – Sunum Videosu**](https://drive.google.com/file/d/18iDG3zdYwLX0f-6kk3MHCXYwF7fB2nBx/view?usp=sharing)
+📄 **Test Report**
+📄 **Jira Bug Report**
+📄 **Checklist**
+📄 **TestRail Cases Report**
+📄 **TestRail Run Report**
+
+---
+
+## 🎥 Presentation Link
+
+▶️ [PowerPulse Manual Project – Presentation Video](https://drive.google.com/file/d/18iDG3zdYwLX0f-6kk3MHCXYwF7fB2nBx/view?usp=sharing)
 
 ---
 
 ## 🎯 Project Goals
 
-* 📚 **API testing processes are fully documented**
-* 🐞 **Bugs are consistently reported and tracked in JIRA**
-* 📊 **TestRail outputs provide standardized and traceable reporting**
-* 📈 **The overall quality assurance status of the project is clearly measured**
+✔️ **API testing processes are fully documented**
+🐞 **Bugs are consistently reported, managed, and tracked in JIRA**
+📊 **TestRail outputs provide standardized and measurable reporting**
+📈 **The overall quality assurance status of the project is clearly assessed and monitored**
 
 ---
-
-
 
