@@ -18,7 +18,6 @@ The goal of this project is to ensure the stability, functionality, and performa
 
 📄 **README.md** — This documentation file
 
-
 ## 🔗 Test Reports
 
  📈 Performance Report
